@@ -4,6 +4,12 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "author": {
+    "name": "Samuel Osemeke (Oxcode)",
+    "email": "mrexcelsam1@gmail.com",
+    "url": "https://github.com/oxcode-dev",
+    "portfolio": "https://oxcodev.vercel.app"
+  },
   "scripts": {
     "dev": "vite",
     "build": "vite build",
