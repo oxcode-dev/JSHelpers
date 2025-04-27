@@ -1,5 +1,6 @@
 {
-  "name": "helper-js",
+  "name": "js-helpers",
+  "description": "Template example for creating npm packages using vite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
