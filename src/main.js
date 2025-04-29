@@ -7,5 +7,5 @@ document.getElementById('capitalize').innerHTML = capitalize('hello World')
 document.getElementById('slugify').innerHTML = slugify(slugString)
 document.getElementById('dehyphenate').innerHTML = dehyphenate(slugString)
 document.getElementById('ucwords').innerHTML = ucwords(string)
+document.getElementById('prettierUrl').innerHTML = prettierUrl(string)
 document.getElementById('numberFormat').innerHTML = numberFormat(1234567890)
-
