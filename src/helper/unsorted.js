@@ -30,11 +30,6 @@ export function ucwords(value) {
     .replace(/(^([a-zA-Z\p{M}]))|([ -][a-zA-Z\p{M}])/g, (a) => a.toUpperCase());
 }
 
-export function getName(value) {
-  if (value.name !== undefined) return value.name;
-  return value.first_name + " " + value.last_name;
-}
-
 export function getBase64(file) {
   return new Promise((resolve, reject) => {
     const reader = new FileReader();
