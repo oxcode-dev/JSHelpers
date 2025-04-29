@@ -65,7 +65,6 @@ export {
 export {
   capitalize,
   getBase64,
-  getName,
   lowercase,
   naturalSort,
   numberFormat,
