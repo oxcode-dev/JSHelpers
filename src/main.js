@@ -11,4 +11,3 @@ document.getElementById('prettierUrl').innerHTML = prettierUrl('http://www.faceb
 document.getElementById('numberFormat').innerHTML = numberFormat(1234567890)
 
 
-
