@@ -12,4 +12,3 @@ document.getElementById('numberFormat').innerHTML = numberFormat(1234567890)
 
 
 
-
