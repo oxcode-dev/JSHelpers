@@ -10,4 +10,3 @@ document.getElementById('ucwords').innerHTML = ucwords(string)
 document.getElementById('prettierUrl').innerHTML = prettierUrl('http://www.facebook.com')
 document.getElementById('numberFormat').innerHTML = numberFormat(1234567890)
 
-
