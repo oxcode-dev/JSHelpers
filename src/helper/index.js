@@ -1,11 +1,4 @@
 export {
-  isScriptLoaded,
-  loadExternalScript,
-  loadScript,
-  unloadScript,
-} from "./load-script";
-
-export {
   isString,
   isArray,
   isBoolean,
