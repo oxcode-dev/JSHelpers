@@ -5,19 +5,6 @@ export {
   unloadScript,
 } from "./load-script";
 
-// export {
-//     canUseWebP,
-//     isWindow,
-//     isTouch,
-//     isBrowser,
-//     isIE,
-//     hasDocumentSupport,
-//     hasIntersectionObserverSupport,
-//     hasNavigatorSupport,
-//     hasWindowSupport,
-//     userAgent,
-// } from "./check-browser-specifics"
-
 export {
   isString,
   isArray,
@@ -43,7 +30,6 @@ export {
   o_O,
   arrayDiff,
   camelize,
-  convertToUnit,
   kebabCase,
   keyCodes,
   objectMerge,

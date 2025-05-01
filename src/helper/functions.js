@@ -25,16 +25,6 @@ export function strBetween(str, start, stop) {
   return result[0];
 }
 
-export function convertToUnit(str, unit = "px") {
-  if (str == null || str === "") {
-    return undefined;
-  } else if (isNaN(+str)) {
-    return String(str);
-  } else {
-    return `${Number(str)}${unit}`;
-  }
-}
-
 export function kebabCase(str) {
   return (str || "").replace(/([a-z])([A-Z])/g, "$1-$2").toLowerCase();
 }
