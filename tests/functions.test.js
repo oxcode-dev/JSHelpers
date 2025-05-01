@@ -1,7 +1,8 @@
 import { describe, expect, it } from "vitest";
+import { randomStr } from "../src/helper";
 
-describe('max', () => { 
-    it('should return  the first argument if it is greater', () => {
-        expect(max(2, 1)).toBe(2)
+describe('randomStr', () => { 
+    it('should return ', () => {
+        expect(randomStr()).toBe(2)
     })
 })  
