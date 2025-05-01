@@ -2,8 +2,12 @@
   "name": "js-helpers",
   "description": "Template example for creating npm packages using vite",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
+  "license": "MIT",
+  "files": ["dist"],
+  "main": "dist/js-helpers.umd.js",
+  "module": "dist/js-helpers.es.js",
   "author": {
     "name": "Samuel Osemeke (Oxcode)",
     "email": "mrexcelsam1@gmail.com",

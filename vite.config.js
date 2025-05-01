@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite';
 
-export default ({
+export default defineConfig({
     build: {
         lib: {
             entry: 'src/index.js',
