@@ -5,7 +5,7 @@ export default defineConfig({
         lib: {
             entry: 'src/index.js',
             name: 'JSHelpers',
-            fileName: 'js-helpers-function',
+            fileName: 'helpers-function-js',
             formats: ['es', 'umd'],
         }
     }
