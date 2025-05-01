@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { randomStr } from "../src/helper";
+import { randomStr } from "../src";
 
 describe('randomStr', () => { 
     it('should return ', () => {

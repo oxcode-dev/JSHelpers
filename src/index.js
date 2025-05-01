@@ -16,7 +16,7 @@ export {
   isDefined,
   isEmpty,
   isValidURL,
-} from "./check-type";
+} from "./helper/check-type";
 
 export {
   scrollToTop,
@@ -39,7 +39,7 @@ export {
   getQueryParams,
   sortArrayOfObjects,
   generateUUID,
-} from "./functions";
+} from "./helper/functions";
 
 export {
   capitalize,
@@ -53,4 +53,4 @@ export {
   ucwords,
   dehyphenate,
   cartesian,
-} from "./unsorted";
+} from "./helper/unsorted";

@@ -1,4 +1,4 @@
-import { capitalize, dehyphenate, slugify, numberFormat, ucwords, prettierUrl } from './helper'
+import { capitalize, dehyphenate, slugify, numberFormat, ucwords, prettierUrl } from '.'
 
 let app = document.getElementById('app')
 let string = 'Hello world, I am the best man at your wedding last year'
