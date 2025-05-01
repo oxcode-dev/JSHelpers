@@ -3,6 +3,7 @@ import { randomStr } from "../src/helper";
 
 describe('randomStr', () => { 
     it('should return ', () => {
-        expect(randomStr()).toBe(2)
+        console.log(randomStr())
+        expect(randomStr()).toBeTypeOf('string')
     })
 })  
