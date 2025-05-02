@@ -32,9 +32,13 @@
     "@vitest/coverage-v8": "^3.1.2"
   },
   "keywords": [
-    "colour-picker",
+    "helpers-function-js",
+    "helpers-function",
+    "helpers-js",
     "vue",
-    "colorpicker",
-    "vue-colour-picker"
+    "react",
+    "function-javascript",
+    "javascript",
+    "svelte"
   ]
 }
